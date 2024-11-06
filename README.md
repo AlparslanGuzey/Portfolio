@@ -1,4 +1,4 @@
-# Alparslan Güzey's Data Science Portfolio
+# Dr. Alparslan Güzey's Portfolio
 
 Welcome to my portfolio! I'm a Data Scientist with a **Ph.D. in Optimization and Machine Learning**, specializing in predictive modeling, optimization algorithms, and energy-efficient solutions. Here, you'll find a selection of my top projects that showcase my skills and expertise in data-driven solutions across various fields, including logistics, UAV routing, and disaster management.
 
