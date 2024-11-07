@@ -1,6 +1,6 @@
 # Dr. Alparslan Güzey's Portfolio
 
-Welcome to my portfolio! I'm a Data Scientist with a **Ph.D. in Optimization and Machine Learning**, specializing in predictive modeling, optimization algorithms, and energy-efficient solutions. Here, you'll find a selection of my top projects that showcase my skills and expertise in data-driven solutions across various fields, including logistics, UAV routing, and disaster management.
+Welcome to my portfolio! I'm a Data Scientist with a **Ph.D. in Optimization and Machine Learning**, specializing in predictive modeling, optimization algorithms, and energy-efficient solutions. Here, you'll find a selection of my top projects that showcase my skills and expertise in data-driven solutions across various fields, including sales forecasting, logistics, UAV routing, and disaster management.
 
 ## Table of Contents
 - [Predictive Modeling](#predictive-modeling)
@@ -12,6 +12,11 @@ Welcome to my portfolio! I'm a Data Scientist with a **Ph.D. in Optimization and
 ---
 
 ## Predictive Modeling
+
+### [Adidas Sales Analysis and Forecasting](https://github.com/AlparslanGuzey/Adidas-Sales-Analysis-and-Forecasting)
+An in-depth analysis and forecasting of Adidas sales data using statistical and machine learning methods. This project uncovers sales trends and customer preferences, providing actionable insights to optimize inventory and marketing strategies. Visualizations were created using Tableau to provide clear, interactive views of key metrics and sales trends.
+  - **Skills**: Predictive Modeling, Time Series Analysis, Data Visualization
+  - **Tech Stack**: Python, Tableau, SARIMA, Prophet, Random Forest
 
 ### [DynamicRoute](https://github.com/AlparslanGuzey/DynamicRoute)
 A project on optimizing UAV routes by dynamically adjusting speeds and energy usage based on payloads. This study uses an Enhanced Genetic Algorithm (EGA) to improve delivery efficiency in complex multi-UAV routing scenarios.
@@ -63,4 +68,3 @@ Feel free to reach out if you have any questions or are interested in discussing
 ---
 
 This portfolio provides an overview of my skills and project experiences in predictive modeling, optimization algorithms, clustering, and energy efficiency. Each project demonstrates my commitment to applying data science and optimization techniques to solve real-world problems.
-
